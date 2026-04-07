@@ -1,0 +1,5 @@
+invalidLines=4
+paidTotalCents=1500
+NEW=1
+PAID=1
+FAILED=1
